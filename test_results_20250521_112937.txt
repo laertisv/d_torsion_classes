@@ -1,0 +1,480 @@
+Starting tests...
+
+Running test case 1/53
+
+Testing algebra with d=2, l=2, p=2
+Found 6 2-torsion classes
+
+Formula validation: Number of 2-torsion classes (6) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 2/53
+
+Testing algebra with d=2, l=2, p=3
+Found 16 2-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 3/53
+
+Testing algebra with d=2, l=2, p=4
+Found 44 2-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 4/53
+
+Testing algebra with d=2, l=2, p=5
+Found 120 2-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 5/53
+
+Testing algebra with d=2, l=2, p=6
+Found 328 2-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 6/53
+
+Testing algebra with d=2, l=3, p=2
+Found 8 2-torsion classes
+
+Formula validation: Number of 2-torsion classes (8) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 7/53
+
+Testing algebra with d=2, l=3, p=4
+Found 62 2-torsion classes
+
+Formula validation: Number of 2-torsion classes (62) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 8/53
+
+Testing algebra with d=2, l=3, p=6
+Found 454 2-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 9/53
+
+Testing algebra with d=2, l=4, p=2
+Found 10 2-torsion classes
+
+Formula validation: Number of 2-torsion classes (10) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 10/53
+
+Testing algebra with d=2, l=4, p=4
+Found 96 2-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 11/53
+
+Testing algebra with d=2, l=4, p=6
+Found 872 2-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 12/53
+
+Testing algebra with d=2, l=6, p=2
+Found 14 2-torsion classes
+
+Formula validation: Number of 2-torsion classes (14) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 13/53
+
+Testing algebra with d=2, l=6, p=4
+Found 192 2-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 14/53
+
+Testing algebra with d=2, l=6, p=6
+Found 2484 2-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 15/53
+
+Testing algebra with d=3, l=2, p=2
+Found 7 3-torsion classes
+
+Formula validation: Number of 3-torsion classes (7) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 16/53
+
+Testing algebra with d=3, l=2, p=3
+Found 20 3-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 17/53
+
+Testing algebra with d=3, l=2, p=4
+Found 61 3-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 18/53
+
+Testing algebra with d=3, l=2, p=5
+Found 182 3-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 19/53
+
+Testing algebra with d=3, l=2, p=6
+Found 547 3-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 20/53
+
+Testing algebra with d=4, l=2, p=2
+Found 8 4-torsion classes
+
+Formula validation: Number of 4-torsion classes (8) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 21/53
+
+Testing algebra with d=4, l=2, p=3
+Found 24 4-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 22/53
+
+Testing algebra with d=4, l=2, p=4
+Found 80 4-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 23/53
+
+Testing algebra with d=4, l=2, p=5
+Found 256 4-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 24/53
+
+Testing algebra with d=4, l=2, p=6
+Found 832 4-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 25/53
+
+Testing algebra with d=4, l=3, p=2
+Found 11 4-torsion classes
+
+Formula validation: Number of 4-torsion classes (11) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 26/53
+
+Testing algebra with d=4, l=3, p=4
+Found 119 4-torsion classes
+
+Formula validation: Number of 4-torsion classes (119) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 27/53
+
+Testing algebra with d=4, l=3, p=6
+Found 1219 4-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 28/53
+
+Testing algebra with d=4, l=4, p=2
+Found 14 4-torsion classes
+
+Formula validation: Number of 4-torsion classes (14) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 29/53
+
+Testing algebra with d=4, l=4, p=4
+Found 187 4-torsion classes
+
+Formula validation: Number of 4-torsion classes (187) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 30/53
+
+Testing algebra with d=4, l=4, p=6
+Found 2379 4-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 31/53
+
+Testing algebra with d=4, l=5, p=2
+Found 17 4-torsion classes
+
+Formula validation: Number of 4-torsion classes (17) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 32/53
+
+Testing algebra with d=4, l=5, p=4
+Found 270 4-torsion classes
+
+Formula validation: Number of 4-torsion classes (270) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 33/53
+
+Testing algebra with d=4, l=5, p=6
+Found 4103 4-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 34/53
+
+Testing algebra with d=4, l=6, p=2
+Found 20 4-torsion classes
+
+Formula validation: Number of 4-torsion classes (20) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 35/53
+
+Testing algebra with d=4, l=6, p=4
+Found 368 4-torsion classes
+
+Formula validation: Number of 4-torsion classes (368) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 36/53
+
+Testing algebra with d=4, l=6, p=6
+Found 6502 4-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 37/53
+
+Testing algebra with d=6, l=2, p=2
+Found 10 6-torsion classes
+
+Formula validation: Number of 6-torsion classes (10) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 38/53
+
+Testing algebra with d=6, l=2, p=3
+Found 32 6-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 39/53
+
+Testing algebra with d=6, l=2, p=4
+Found 124 6-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 40/53
+
+Testing algebra with d=6, l=2, p=5
+Found 440 6-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 41/53
+
+Testing algebra with d=6, l=2, p=6
+Found 1624 6-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 42/53
+
+Testing algebra with d=6, l=3, p=2
+Found 14 6-torsion classes
+
+Formula validation: Number of 6-torsion classes (14) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 43/53
+
+Testing algebra with d=6, l=3, p=4
+Found 194 6-torsion classes
+
+Formula validation: Number of 6-torsion classes (194) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 44/53
+
+Testing algebra with d=6, l=3, p=6
+Found 2560 6-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 45/53
+
+Testing algebra with d=6, l=4, p=2
+Found 18 6-torsion classes
+
+Formula validation: Number of 6-torsion classes (18) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 46/53
+
+Testing algebra with d=6, l=4, p=4
+Found 311 6-torsion classes
+
+Formula validation: Number of 6-torsion classes (311) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 47/53
+
+Testing algebra with d=6, l=4, p=6
+Found 5151 6-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 48/53
+
+Testing algebra with d=6, l=5, p=2
+Found 22 6-torsion classes
+
+Formula validation: Number of 6-torsion classes (22) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 49/53
+
+Testing algebra with d=6, l=5, p=4
+Found 455 6-torsion classes
+
+Formula validation: Number of 6-torsion classes (455) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 50/53
+
+Testing algebra with d=6, l=5, p=6
+Found 9063 6-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 51/53
+
+Testing algebra with d=6, l=6, p=2
+Found 26 6-torsion classes
+
+Formula validation: Number of 6-torsion classes (26) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 52/53
+
+Testing algebra with d=6, l=6, p=4
+Found 626 6-torsion classes
+
+Formula validation: Number of 6-torsion classes (626) matches the formula
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+Running test case 53/53
+
+Testing algebra with d=6, l=6, p=6
+Found 14566 6-torsion classes
+
+Formula validation: No formula to check for these parameters
+
+All tau_d-rigid pairs satisfy all three conditions!
+
+All tests passed successfully!
